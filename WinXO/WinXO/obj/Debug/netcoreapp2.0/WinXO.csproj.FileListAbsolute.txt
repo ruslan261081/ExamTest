@@ -1,0 +1,11 @@
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\bin\Debug\netcoreapp2.0\WinXO.deps.json
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\bin\Debug\netcoreapp2.0\WinXO.runtimeconfig.json
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\bin\Debug\netcoreapp2.0\WinXO.runtimeconfig.dev.json
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\bin\Debug\netcoreapp2.0\WinXO.dll
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\bin\Debug\netcoreapp2.0\WinXO.pdb
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.csprojAssemblyReference.cache
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.csproj.CoreCompileInputs.cache
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.AssemblyInfoInputs.cache
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.AssemblyInfo.cs
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.dll
+C:\Users\ruslan &anna\source\repos\WinXO\WinXO\obj\Debug\netcoreapp2.0\WinXO.pdb
